@@ -67,11 +67,11 @@ Lalu pada tab **Network** pastikan gRPC dan WebSocket sudah ON
 # Setting Host Marzban
  
  Saat masuk ke panel, setting host di menu kanan atas <br>
- ![image](https://github.com/mjoeyx/MarMJC/assets/97426017/6b96bce7-39c7-4b5c-b01e-8dfdea91cb47) </br>
+ ![image](https://github.com/GawrAme/MarLing/assets/97426017/6b96bce7-39c7-4b5c-b01e-8dfdea91cb47) </br>
 
 Lalu ubah variabel {SERVER_IP} dibawah menjadi domain yang sudah di pointing tadi <br>
 # CONTOH
-![image](https://github.com/mjoeyx/MarMJC/assets/97426017/191a485c-07a7-4a28-88d3-b66fa403abc7)
+![image](https://github.com/GawrAme/MarLing/assets/97426017/191a485c-07a7-4a28-88d3-b66fa403abc7)
 </br>
 
 Join ke Telegram MultiBot saya di :<a href="https://t.me/romjcbot" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>

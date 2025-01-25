@@ -60,7 +60,7 @@ Pastikan SSL/TLS Setting pada cloudflare sudah di set menjadi full
 ![image](https://github.com/GawrAme/MarLing/assets/97426017/3aeedf09-308e-41b0-9640-50e4abb77aa0) </br>
 
 Lalu pada tab **Network** pastikan gRPC dan WebSocket sudah ON 
-![image](https://github.com/mjoeyx/MarMJC/assets/97426017/65d9b413-fda4-478a-99a5-b33d8e5fec3d)
+![image](https://github.com/GawrAme/MarLing/assets/97426017/65d9b413-fda4-478a-99a5-b33d8e5fec3d)
 
 
 

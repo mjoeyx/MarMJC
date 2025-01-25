@@ -4,7 +4,8 @@ Ini adalah [Marzban](https://github.com/Gozargah/Marzban) yang sudah di tambahka
 WebSocket sudah support untuk 443 TLS, 80 HTTP dan Wildcard path, contoh /enter-your-custom-path/trojan </br>
 gRPC sudah support untuk 443 TLS </br>
 
-Disclaimer: Project ini hanya untuk pembelajaran dan komunikasi pribadi, mohon jangan menggunakannya untuk tujuan ilegal. </br>
+⚠️𝗗𝗶𝘀𝗰𝗹𝗮𝗶𝗺𝗲𝗿:
+Project ini hanya untuk pembelajaran dan komunikasi pribadi, dan jangan menggunakannya untuk tujuan ilegal. </br>
 Credit aplikasi full to [Gozargah Marzban](https://github.com/Gozargah), saya hanya recode sedikit untuk instalasi yang sederhana bagi pemula seperti saya🙏 . </br>
 
 # Special BigThanks to
